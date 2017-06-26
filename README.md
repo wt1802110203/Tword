@@ -1,2 +1,5 @@
 # Tword
-The first my practice
+
+Hi Humans:
+
+There should be a try and you should spare no effort.
